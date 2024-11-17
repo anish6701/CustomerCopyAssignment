@@ -1,0 +1,9 @@
+{
+	"name": "qaCustomer",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0687b0b1-dcca-4f0c-ae07-0462a2267121",
+		"tenantId": "4b97d221-0c12-4dcb-ba80-c180379c7017"
+	}
+}
