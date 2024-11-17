@@ -1,0 +1,9 @@
+{
+	"name": "developCustomer",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58b1b933-1ca8-4063-a969-1f123427ffe9",
+		"tenantId": "4b97d221-0c12-4dcb-ba80-c180379c7017"
+	}
+}
